@@ -1,0 +1,692 @@
+[I 02:37:36.133 NotebookApp] Serving notebooks from local directory: /home/cristiankamia/master_research
+[I 02:37:36.133 NotebookApp] The Jupyter Notebook is running at:
+[I 02:37:36.133 NotebookApp] http://localhost:8889/
+[I 02:37:36.133 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 03:17:55.082 NotebookApp] received signal 15, stopping
+[I 03:17:55.084 NotebookApp] Shutting down 0 kernels
+[I 03:18:37.702 NotebookApp] The port 8888 is already in use, trying another port.
+[I 03:18:37.707 NotebookApp] Serving notebooks from local directory: /home/cristiankamia/master_research
+[I 03:18:37.707 NotebookApp] The Jupyter Notebook is running at:
+[I 03:18:37.707 NotebookApp] http://localhost:8889/
+[I 03:18:37.707 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 03:18:42.509 NotebookApp] Interrupted...
+[I 03:18:42.509 NotebookApp] Shutting down 0 kernels
+[I 03:18:49.356 NotebookApp] The port 8888 is already in use, trying another port.
+[I 03:18:49.361 NotebookApp] Serving notebooks from local directory: /home/cristiankamia/master_research
+[I 03:18:49.361 NotebookApp] The Jupyter Notebook is running at:
+[I 03:18:49.361 NotebookApp] http://localhost:8889/
+[I 03:18:49.361 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 08:01:55.960 NotebookApp] delete /Untitled.ipynb
+[W 08:01:57.410 NotebookApp] 404 DELETE /api/contents/Untitled.ipynb?1573599715097 (127.0.0.1): File or directory does not exist: /home/cristiankamia/master_research/Untitled.ipynb
+[W 08:01:57.442 NotebookApp] File or directory does not exist: /home/cristiankamia/master_research/Untitled.ipynb
+[W 08:01:57.491 NotebookApp] 404 DELETE /api/contents/Untitled.ipynb?1573599715097 (127.0.0.1) 2387.34ms referer=None
+[W 08:01:57.569 NotebookApp] delete /Untitled1.ipynb
+[W 08:01:57.569 NotebookApp] 404 DELETE /api/contents/Untitled1.ipynb?1573599715098 (127.0.0.1): File or directory does not exist: /home/cristiankamia/master_research/Untitled1.ipynb
+[W 08:01:57.570 NotebookApp] File or directory does not exist: /home/cristiankamia/master_research/Untitled1.ipynb
+[W 08:01:57.571 NotebookApp] 404 DELETE /api/contents/Untitled1.ipynb?1573599715098 (127.0.0.1) 2078.17ms referer=None
+[I 11:35:46.992 NotebookApp] Serving notebooks from local directory: /home/cristiankamia/master_research
+[I 11:35:47.016 NotebookApp] The Jupyter Notebook is running at:
+[I 11:35:47.016 NotebookApp] http://localhost:8888/?token=205f49afee68c69207b308428de85609be506c60255fc170
+[I 11:35:47.016 NotebookApp]  or http://127.0.0.1:8888/?token=205f49afee68c69207b308428de85609be506c60255fc170
+[I 11:35:47.016 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 11:35:47.030 NotebookApp] No web browser found: could not locate runnable browser.
+[C 11:35:47.030 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///home/cristiankamia/.local/share/jupyter/runtime/nbserver-24724-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8888/?token=205f49afee68c69207b308428de85609be506c60255fc170
+     or http://127.0.0.1:8888/?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 11:35:51.877 NotebookApp] Forbidden
+[W 11:35:51.878 NotebookApp] 403 GET /api/sessions?1573612551869 (127.0.0.1) 2.45ms referer=None
+[W 11:36:01.875 NotebookApp] Forbidden
+[W 11:36:01.876 NotebookApp] 403 GET /api/sessions?1573612561871 (127.0.0.1) 2.44ms referer=None
+[W 11:36:02.971 NotebookApp] Couldn't authenticate WebSocket connection
+[W 11:36:03.035 NotebookApp] 403 GET /api/kernels/b7c71bfc-82a1-47c3-ac31-5cbb2aec6b92/channels?session_id=fd7a896e-52a7-49d1-8519-8c479eeb4080&token=2e60aba1aa4d491a01fecb3fb88ee6d9c2bbd290584a7686 (127.0.0.1) 68.52ms referer=None
+[W 11:36:03.038 NotebookApp] Couldn't authenticate WebSocket connection
+[W 11:36:03.040 NotebookApp] 403 GET /api/kernels/9453ab6c-2ac4-445a-961f-db4bfc8acbf5/channels?session_id=bef2692d-eea5-4a16-9ae0-f4205cc5d8ba&token=2e60aba1aa4d491a01fecb3fb88ee6d9c2bbd290584a7686 (127.0.0.1) 3.87ms referer=None
+[W 11:36:11.876 NotebookApp] Forbidden
+[W 11:36:11.877 NotebookApp] 403 GET /api/sessions?1573612571872 (127.0.0.1) 2.38ms referer=None
+[W 11:36:21.878 NotebookApp] Forbidden
+[W 11:36:21.879 NotebookApp] 403 GET /api/sessions?1573612581873 (127.0.0.1) 2.83ms referer=None
+[W 11:36:31.878 NotebookApp] Forbidden
+[W 11:36:31.880 NotebookApp] 403 GET /api/sessions?1573612591873 (127.0.0.1) 2.84ms referer=None
+[W 11:36:35.046 NotebookApp] Couldn't authenticate WebSocket connection
+[W 11:36:35.048 NotebookApp] 403 GET /api/kernels/b7c71bfc-82a1-47c3-ac31-5cbb2aec6b92/channels?session_id=fd7a896e-52a7-49d1-8519-8c479eeb4080&token=2e60aba1aa4d491a01fecb3fb88ee6d9c2bbd290584a7686 (127.0.0.1) 7.69ms referer=None
+[W 11:36:35.051 NotebookApp] Couldn't authenticate WebSocket connection
+[W 11:36:35.053 NotebookApp] 403 GET /api/kernels/9453ab6c-2ac4-445a-961f-db4bfc8acbf5/channels?session_id=bef2692d-eea5-4a16-9ae0-f4205cc5d8ba&token=2e60aba1aa4d491a01fecb3fb88ee6d9c2bbd290584a7686 (127.0.0.1) 3.73ms referer=None
+[I 11:36:41.746 NotebookApp] Creating new notebook in /
+[W 11:36:42.027 NotebookApp] Forbidden
+[W 11:36:42.028 NotebookApp] 403 GET /api/sessions?1573612601874 (127.0.0.1) 4.35ms referer=None
+[I 11:36:42.081 NotebookApp] Kernel started: 2e3073cb-4327-4797-97c7-8f5df2dcb915
+[I 11:36:43.025 NotebookApp] Creating new notebook in /
+[I 11:36:43.293 NotebookApp] Kernel started: 9d0a680c-069a-4102-8c94-681738ed70ad
+[W 11:36:43.873 NotebookApp] Forbidden
+[W 11:36:43.875 NotebookApp] 403 GET /api/kernelspecs?1573612603868 (127.0.0.1) 3.43ms referer=None
+[W 11:36:51.879 NotebookApp] Forbidden
+[W 11:36:51.880 NotebookApp] 403 GET /api/sessions?1573612611873 (127.0.0.1) 2.82ms referer=None
+[W 11:37:01.879 NotebookApp] Forbidden
+[W 11:37:01.880 NotebookApp] 403 GET /api/sessions?1573612621874 (127.0.0.1) 2.72ms referer=None
+[W 11:37:11.879 NotebookApp] Forbidden
+[W 11:37:11.880 NotebookApp] 403 GET /api/sessions?1573612631874 (127.0.0.1) 2.73ms referer=None
+[W 11:37:21.878 NotebookApp] Forbidden
+[W 11:37:21.879 NotebookApp] 403 GET /api/sessions?1573612641874 (127.0.0.1) 1.42ms referer=None
+[W 11:37:31.881 NotebookApp] Forbidden
+[W 11:37:31.882 NotebookApp] 403 GET /api/sessions?1573612651875 (127.0.0.1) 2.97ms referer=None
+[W 11:37:41.882 NotebookApp] Forbidden
+[W 11:37:41.883 NotebookApp] 403 GET /api/sessions?1573612661876 (127.0.0.1) 3.48ms referer=None
+[W 11:37:44.882 NotebookApp] Forbidden
+[W 11:37:44.884 NotebookApp] 403 GET /api/kernelspecs?1573612664870 (127.0.0.1) 2.95ms referer=None
+[W 11:37:51.881 NotebookApp] Forbidden
+[W 11:37:51.882 NotebookApp] 403 GET /api/sessions?1573612671876 (127.0.0.1) 2.16ms referer=None
+[W 11:38:01.882 NotebookApp] Forbidden
+[W 11:38:01.883 NotebookApp] 403 GET /api/sessions?1573612681877 (127.0.0.1) 2.93ms referer=None
+[W 11:38:11.882 NotebookApp] Forbidden
+[W 11:38:11.883 NotebookApp] 403 GET /api/sessions?1573612691877 (127.0.0.1) 3.05ms referer=None
+[W 11:38:21.881 NotebookApp] Forbidden
+[W 11:38:21.882 NotebookApp] 403 GET /api/sessions?1573612701876 (127.0.0.1) 2.68ms referer=None
+[W 11:38:31.881 NotebookApp] Forbidden
+[W 11:38:31.881 NotebookApp] 403 GET /api/sessions?1573612711877 (127.0.0.1) 1.79ms referer=None
+[W 11:38:41.880 NotebookApp] Forbidden
+[W 11:38:41.881 NotebookApp] 403 GET /api/sessions?1573612721877 (127.0.0.1) 1.80ms referer=None
+[W 11:38:45.874 NotebookApp] Forbidden
+[W 11:38:45.879 NotebookApp] 403 GET /api/kernelspecs?1573612725870 (127.0.0.1) 6.11ms referer=None
+[W 11:38:51.881 NotebookApp] Forbidden
+[W 11:38:51.881 NotebookApp] 403 GET /api/sessions?1573612731877 (127.0.0.1) 1.68ms referer=None
+[W 11:39:01.882 NotebookApp] Forbidden
+[W 11:39:01.883 NotebookApp] 403 GET /api/sessions?1573612741878 (127.0.0.1) 1.77ms referer=None
+[W 11:39:11.882 NotebookApp] Forbidden
+[W 11:39:11.882 NotebookApp] 403 GET /api/sessions?1573612751878 (127.0.0.1) 1.67ms referer=None
+[W 11:39:21.883 NotebookApp] Forbidden
+[W 11:39:21.884 NotebookApp] 403 GET /api/sessions?1573612761879 (127.0.0.1) 2.11ms referer=None
+[W 11:39:31.883 NotebookApp] Forbidden
+[W 11:39:31.884 NotebookApp] 403 GET /api/sessions?1573612771879 (127.0.0.1) 2.05ms referer=None
+[W 11:39:41.883 NotebookApp] Forbidden
+[W 11:39:41.884 NotebookApp] 403 GET /api/sessions?1573612781880 (127.0.0.1) 2.01ms referer=None
+[W 11:39:46.875 NotebookApp] Forbidden
+[W 11:39:46.875 NotebookApp] 403 GET /api/kernelspecs?1573612786871 (127.0.0.1) 1.90ms referer=None
+[W 11:39:51.884 NotebookApp] Forbidden
+[W 11:39:51.885 NotebookApp] 403 GET /api/sessions?1573612791880 (127.0.0.1) 2.71ms referer=None
+[W 11:40:01.883 NotebookApp] Forbidden
+[W 11:40:01.884 NotebookApp] 403 GET /api/sessions?1573612801880 (127.0.0.1) 1.91ms referer=None
+[W 11:40:11.884 NotebookApp] Forbidden
+[W 11:40:11.885 NotebookApp] 403 GET /api/sessions?1573612811880 (127.0.0.1) 2.08ms referer=None
+[W 11:40:21.885 NotebookApp] Forbidden
+[W 11:40:21.886 NotebookApp] 403 GET /api/sessions?1573612821880 (127.0.0.1) 2.31ms referer=None
+[W 11:40:31.884 NotebookApp] Forbidden
+[W 11:40:31.885 NotebookApp] 403 GET /api/sessions?1573612831881 (127.0.0.1) 1.82ms referer=None
+[W 11:40:41.884 NotebookApp] Forbidden
+[W 11:40:41.885 NotebookApp] 403 GET /api/sessions?1573612841881 (127.0.0.1) 1.52ms referer=None
+[W 11:40:47.877 NotebookApp] Forbidden
+[W 11:40:47.878 NotebookApp] 403 GET /api/kernelspecs?1573612847873 (127.0.0.1) 2.53ms referer=None
+[W 11:40:51.885 NotebookApp] Forbidden
+[W 11:40:51.885 NotebookApp] 403 GET /api/sessions?1573612851881 (127.0.0.1) 1.90ms referer=None
+[W 11:41:01.886 NotebookApp] Forbidden
+[W 11:41:01.887 NotebookApp] 403 GET /api/sessions?1573612861881 (127.0.0.1) 2.81ms referer=None
+[W 11:41:11.885 NotebookApp] Forbidden
+[W 11:41:11.886 NotebookApp] 403 GET /api/sessions?1573612871880 (127.0.0.1) 2.71ms referer=None
+[W 11:41:21.886 NotebookApp] Forbidden
+[W 11:41:21.887 NotebookApp] 403 GET /api/sessions?1573612881881 (127.0.0.1) 2.78ms referer=None
+[W 11:41:31.885 NotebookApp] Forbidden
+[W 11:41:31.887 NotebookApp] 403 GET /api/sessions?1573612891880 (127.0.0.1) 2.76ms referer=None
+[W 11:41:41.886 NotebookApp] Forbidden
+[W 11:41:41.887 NotebookApp] 403 GET /api/sessions?1573612901881 (127.0.0.1) 2.76ms referer=None
+[W 11:41:48.878 NotebookApp] Forbidden
+[W 11:41:48.880 NotebookApp] 403 GET /api/kernelspecs?1573612908873 (127.0.0.1) 3.04ms referer=None
+[W 11:41:51.886 NotebookApp] Forbidden
+[W 11:41:51.887 NotebookApp] 403 GET /api/sessions?1573612911882 (127.0.0.1) 2.14ms referer=None
+[W 11:42:01.886 NotebookApp] Forbidden
+[W 11:42:01.887 NotebookApp] 403 GET /api/sessions?1573612921882 (127.0.0.1) 2.14ms referer=None
+[W 11:42:11.888 NotebookApp] Forbidden
+[W 11:42:11.889 NotebookApp] 403 GET /api/sessions?1573612931883 (127.0.0.1) 2.37ms referer=None
+[W 11:42:21.889 NotebookApp] Forbidden
+[W 11:42:21.890 NotebookApp] 403 GET /api/sessions?1573612941884 (127.0.0.1) 2.92ms referer=None
+[W 11:42:31.888 NotebookApp] Forbidden
+[W 11:42:31.889 NotebookApp] 403 GET /api/sessions?1573612951883 (127.0.0.1) 2.87ms referer=None
+[W 11:42:41.888 NotebookApp] Forbidden
+[W 11:42:41.890 NotebookApp] 403 GET /api/sessions?1573612961883 (127.0.0.1) 2.87ms referer=None
+[W 11:42:49.879 NotebookApp] Forbidden
+[W 11:42:49.880 NotebookApp] 403 GET /api/kernelspecs?1573612969874 (127.0.0.1) 2.54ms referer=None
+[W 11:42:51.889 NotebookApp] Forbidden
+[W 11:42:51.889 NotebookApp] 403 GET /api/sessions?1573612971884 (127.0.0.1) 2.24ms referer=None
+[W 11:43:01.888 NotebookApp] Forbidden
+[W 11:43:01.889 NotebookApp] 403 GET /api/sessions?1573612981884 (127.0.0.1) 2.32ms referer=None
+[W 11:43:11.889 NotebookApp] Forbidden
+[W 11:43:11.890 NotebookApp] 403 GET /api/sessions?1573612991884 (127.0.0.1) 3.01ms referer=None
+[W 11:43:21.888 NotebookApp] Forbidden
+[W 11:43:21.889 NotebookApp] 403 GET /api/sessions?1573613001884 (127.0.0.1) 2.65ms referer=None
+[W 11:43:31.890 NotebookApp] Forbidden
+[W 11:43:31.891 NotebookApp] 403 GET /api/sessions?1573613011885 (127.0.0.1) 2.76ms referer=None
+[W 11:43:41.890 NotebookApp] Forbidden
+[W 11:43:41.891 NotebookApp] 403 GET /api/sessions?1573613021885 (127.0.0.1) 2.86ms referer=None
+[W 11:43:50.879 NotebookApp] Forbidden
+[W 11:43:50.881 NotebookApp] 403 GET /api/kernelspecs?1573613030874 (127.0.0.1) 2.95ms referer=None
+[W 11:43:51.890 NotebookApp] Forbidden
+[W 11:43:51.891 NotebookApp] 403 GET /api/sessions?1573613031886 (127.0.0.1) 2.66ms referer=None
+[W 11:44:01.890 NotebookApp] Forbidden
+[W 11:44:01.892 NotebookApp] 403 GET /api/sessions?1573613041885 (127.0.0.1) 2.93ms referer=None
+[W 11:44:11.890 NotebookApp] Forbidden
+[W 11:44:11.891 NotebookApp] 403 GET /api/sessions?1573613051885 (127.0.0.1) 2.40ms referer=None
+[W 11:44:21.890 NotebookApp] Forbidden
+[W 11:44:21.891 NotebookApp] 403 GET /api/sessions?1573613061885 (127.0.0.1) 2.91ms referer=None
+[W 11:44:31.890 NotebookApp] Forbidden
+[W 11:44:31.891 NotebookApp] 403 GET /api/sessions?1573613071886 (127.0.0.1) 2.17ms referer=None
+[W 11:44:41.891 NotebookApp] Forbidden
+[W 11:44:41.893 NotebookApp] 403 GET /api/sessions?1573613081887 (127.0.0.1) 2.83ms referer=None
+[W 11:44:51.879 NotebookApp] Forbidden
+[W 11:44:51.880 NotebookApp] 403 GET /api/kernelspecs?1573613091875 (127.0.0.1) 2.21ms referer=None
+[W 11:44:51.889 NotebookApp] Forbidden
+[W 11:44:51.890 NotebookApp] 403 GET /api/sessions?1573613091886 (127.0.0.1) 1.90ms referer=None
+[W 11:45:01.890 NotebookApp] Forbidden
+[W 11:45:01.891 NotebookApp] 403 GET /api/sessions?1573613101886 (127.0.0.1) 2.12ms referer=None
+[W 11:45:11.893 NotebookApp] Forbidden
+[W 11:45:11.895 NotebookApp] 403 GET /api/sessions?1573613111887 (127.0.0.1) 4.52ms referer=None
+[W 11:45:21.890 NotebookApp] Forbidden
+[W 11:45:21.891 NotebookApp] 403 GET /api/sessions?1573613121887 (127.0.0.1) 2.58ms referer=None
+[W 11:45:31.892 NotebookApp] Forbidden
+[W 11:45:31.893 NotebookApp] 403 GET /api/sessions?1573613131887 (127.0.0.1) 2.74ms referer=None
+[W 11:45:41.892 NotebookApp] Forbidden
+[W 11:45:41.893 NotebookApp] 403 GET /api/sessions?1573613141887 (127.0.0.1) 2.75ms referer=None
+[W 11:45:51.891 NotebookApp] Forbidden
+[W 11:45:51.892 NotebookApp] 403 GET /api/sessions?1573613151887 (127.0.0.1) 2.51ms referer=None
+[W 11:45:52.880 NotebookApp] Forbidden
+[W 11:45:52.881 NotebookApp] 403 GET /api/kernelspecs?1573613152875 (127.0.0.1) 2.92ms referer=None
+[W 11:46:01.892 NotebookApp] Forbidden
+[W 11:46:01.893 NotebookApp] 403 GET /api/sessions?1573613161886 (127.0.0.1) 2.81ms referer=None
+[W 11:46:11.891 NotebookApp] Forbidden
+[W 11:46:11.892 NotebookApp] 403 GET /api/sessions?1573613171886 (127.0.0.1) 2.82ms referer=None
+[W 11:46:21.893 NotebookApp] Forbidden
+[W 11:46:21.894 NotebookApp] 403 GET /api/sessions?1573613181887 (127.0.0.1) 2.64ms referer=None
+[W 11:46:31.892 NotebookApp] Forbidden
+[W 11:46:31.893 NotebookApp] 403 GET /api/sessions?1573613191887 (127.0.0.1) 2.77ms referer=None
+[W 11:46:41.892 NotebookApp] Forbidden
+[W 11:46:41.893 NotebookApp] 403 GET /api/sessions?1573613201888 (127.0.0.1) 2.71ms referer=None
+[W 11:46:51.892 NotebookApp] Forbidden
+[W 11:46:51.893 NotebookApp] 403 GET /api/sessions?1573613211888 (127.0.0.1) 2.56ms referer=None
+[W 11:46:53.880 NotebookApp] Forbidden
+[W 11:46:53.881 NotebookApp] 403 GET /api/kernelspecs?1573613213875 (127.0.0.1) 2.77ms referer=None
+[W 11:47:01.892 NotebookApp] Forbidden
+[W 11:47:01.893 NotebookApp] 403 GET /api/sessions?1573613221887 (127.0.0.1) 2.66ms referer=None
+[W 11:47:11.891 NotebookApp] Forbidden
+[W 11:47:11.892 NotebookApp] 403 GET /api/sessions?1573613231888 (127.0.0.1) 1.77ms referer=None
+[W 11:47:21.892 NotebookApp] Forbidden
+[W 11:47:21.894 NotebookApp] 403 GET /api/sessions?1573613241888 (127.0.0.1) 2.71ms referer=None
+[W 11:47:31.892 NotebookApp] Forbidden
+[W 11:47:31.893 NotebookApp] 403 GET /api/sessions?1573613251888 (127.0.0.1) 2.03ms referer=None
+[W 11:47:41.892 NotebookApp] Forbidden
+[W 11:47:41.893 NotebookApp] 403 GET /api/sessions?1573613261888 (127.0.0.1) 2.36ms referer=None
+[W 11:47:51.893 NotebookApp] Forbidden
+[W 11:47:51.894 NotebookApp] 403 GET /api/sessions?1573613271889 (127.0.0.1) 2.62ms referer=None
+[W 11:47:54.879 NotebookApp] Forbidden
+[W 11:47:54.880 NotebookApp] 403 GET /api/kernelspecs?1573613274874 (127.0.0.1) 2.34ms referer=None
+[W 11:48:01.893 NotebookApp] Forbidden
+[W 11:48:01.894 NotebookApp] 403 GET /api/sessions?1573613281888 (127.0.0.1) 2.57ms referer=None
+[W 11:48:11.893 NotebookApp] Forbidden
+[W 11:48:11.894 NotebookApp] 403 GET /api/sessions?1573613291888 (127.0.0.1) 2.64ms referer=None
+[W 11:48:21.893 NotebookApp] Forbidden
+[W 11:48:21.894 NotebookApp] 403 GET /api/sessions?1573613301889 (127.0.0.1) 2.23ms referer=None
+[W 11:48:31.893 NotebookApp] Forbidden
+[W 11:48:31.894 NotebookApp] 403 GET /api/sessions?1573613311889 (127.0.0.1) 2.68ms referer=None
+[W 11:48:41.893 NotebookApp] Forbidden
+[W 11:48:41.894 NotebookApp] 403 GET /api/sessions?1573613321889 (127.0.0.1) 2.64ms referer=None
+[W 11:48:51.893 NotebookApp] Forbidden
+[W 11:48:51.895 NotebookApp] 403 GET /api/sessions?1573613331889 (127.0.0.1) 2.62ms referer=None
+[W 11:48:55.880 NotebookApp] Forbidden
+[W 11:48:55.881 NotebookApp] 403 GET /api/kernelspecs?1573613335875 (127.0.0.1) 2.39ms referer=None
+[W 11:49:01.894 NotebookApp] Forbidden
+[W 11:49:01.895 NotebookApp] 403 GET /api/sessions?1573613341889 (127.0.0.1) 2.75ms referer=None
+[W 11:49:11.893 NotebookApp] Forbidden
+[W 11:49:11.894 NotebookApp] 403 GET /api/sessions?1573613351889 (127.0.0.1) 2.28ms referer=None
+[W 11:49:21.891 NotebookApp] Forbidden
+[W 11:49:21.892 NotebookApp] 403 GET /api/sessions?1573613361888 (127.0.0.1) 1.47ms referer=None
+[W 11:49:31.893 NotebookApp] Forbidden
+[W 11:49:31.894 NotebookApp] 403 GET /api/sessions?1573613371889 (127.0.0.1) 2.64ms referer=None
+[W 11:49:41.894 NotebookApp] Forbidden
+[W 11:49:41.895 NotebookApp] 403 GET /api/sessions?1573613381889 (127.0.0.1) 2.84ms referer=None
+[W 11:49:51.894 NotebookApp] Forbidden
+[W 11:49:51.895 NotebookApp] 403 GET /api/sessions?1573613391890 (127.0.0.1) 2.66ms referer=None
+[W 11:49:56.880 NotebookApp] Forbidden
+[W 11:49:56.882 NotebookApp] 403 GET /api/kernelspecs?1573613396876 (127.0.0.1) 2.41ms referer=None
+[W 11:50:01.894 NotebookApp] Forbidden
+[W 11:50:01.895 NotebookApp] 403 GET /api/sessions?1573613401889 (127.0.0.1) 2.71ms referer=None
+[W 11:50:11.894 NotebookApp] Forbidden
+[W 11:50:11.895 NotebookApp] 403 GET /api/sessions?1573613411889 (127.0.0.1) 2.72ms referer=None
+[W 11:50:21.894 NotebookApp] Forbidden
+[W 11:50:21.896 NotebookApp] 403 GET /api/sessions?1573613421890 (127.0.0.1) 2.68ms referer=None
+[W 11:50:31.894 NotebookApp] Forbidden
+[W 11:50:31.895 NotebookApp] 403 GET /api/sessions?1573613431890 (127.0.0.1) 2.21ms referer=None
+[W 11:50:41.894 NotebookApp] Forbidden
+[W 11:50:41.895 NotebookApp] 403 GET /api/sessions?1573613441890 (127.0.0.1) 2.27ms referer=None
+[W 11:50:51.895 NotebookApp] Forbidden
+[W 11:50:51.896 NotebookApp] 403 GET /api/sessions?1573613451891 (127.0.0.1) 2.74ms referer=None
+[W 11:50:57.881 NotebookApp] Forbidden
+[W 11:50:57.882 NotebookApp] 403 GET /api/kernelspecs?1573613457876 (127.0.0.1) 2.68ms referer=None
+[W 11:51:01.896 NotebookApp] Forbidden
+[W 11:51:01.897 NotebookApp] 403 GET /api/sessions?1573613461891 (127.0.0.1) 2.65ms referer=None
+[W 11:51:11.896 NotebookApp] Forbidden
+[W 11:51:11.898 NotebookApp] 403 GET /api/sessions?1573613471892 (127.0.0.1) 2.86ms referer=None
+[W 11:51:21.896 NotebookApp] Forbidden
+[W 11:51:21.897 NotebookApp] 403 GET /api/sessions?1573613481891 (127.0.0.1) 2.88ms referer=None
+[W 11:51:31.894 NotebookApp] Forbidden
+[W 11:51:31.895 NotebookApp] 403 GET /api/sessions?1573613491892 (127.0.0.1) 1.18ms referer=None
+[W 11:51:41.895 NotebookApp] Forbidden
+[W 11:51:41.897 NotebookApp] 403 GET /api/sessions?1573613501891 (127.0.0.1) 2.64ms referer=None
+[W 11:51:51.896 NotebookApp] Forbidden
+[W 11:51:51.898 NotebookApp] 403 GET /api/sessions?1573613511892 (127.0.0.1) 2.51ms referer=None
+[W 11:51:58.882 NotebookApp] Forbidden
+[W 11:51:58.883 NotebookApp] 403 GET /api/kernelspecs?1573613518877 (127.0.0.1) 2.76ms referer=None
+[W 11:52:01.897 NotebookApp] Forbidden
+[W 11:52:01.898 NotebookApp] 403 GET /api/sessions?1573613521893 (127.0.0.1) 2.51ms referer=None
+[W 11:52:11.897 NotebookApp] Forbidden
+[W 11:52:11.898 NotebookApp] 403 GET /api/sessions?1573613531893 (127.0.0.1) 2.63ms referer=None
+[W 11:52:21.898 NotebookApp] Forbidden
+[W 11:52:21.899 NotebookApp] 403 GET /api/sessions?1573613541893 (127.0.0.1) 2.65ms referer=None
+[W 11:52:31.898 NotebookApp] Forbidden
+[W 11:52:31.899 NotebookApp] 403 GET /api/sessions?1573613551893 (127.0.0.1) 2.68ms referer=None
+[W 11:52:41.898 NotebookApp] Forbidden
+[W 11:52:41.899 NotebookApp] 403 GET /api/sessions?1573613561893 (127.0.0.1) 2.71ms referer=None
+[W 11:52:51.897 NotebookApp] Forbidden
+[W 11:52:51.898 NotebookApp] 403 GET /api/sessions?1573613571894 (127.0.0.1) 1.22ms referer=None
+[W 11:52:59.883 NotebookApp] Forbidden
+[W 11:52:59.884 NotebookApp] 403 GET /api/kernelspecs?1573613579878 (127.0.0.1) 2.65ms referer=None
+[W 11:53:01.899 NotebookApp] Forbidden
+[W 11:53:01.900 NotebookApp] 403 GET /api/sessions?1573613581895 (127.0.0.1) 2.28ms referer=None
+[W 11:53:11.900 NotebookApp] Forbidden
+[W 11:53:11.901 NotebookApp] 403 GET /api/sessions?1573613591896 (127.0.0.1) 2.45ms referer=None
+[W 11:53:21.900 NotebookApp] Forbidden
+[W 11:53:21.901 NotebookApp] 403 GET /api/sessions?1573613601895 (127.0.0.1) 2.51ms referer=None
+[W 11:53:31.899 NotebookApp] Forbidden
+[W 11:53:31.901 NotebookApp] 403 GET /api/sessions?1573613611896 (127.0.0.1) 2.53ms referer=None
+[W 11:53:41.900 NotebookApp] Forbidden
+[W 11:53:41.901 NotebookApp] 403 GET /api/sessions?1573613621896 (127.0.0.1) 2.12ms referer=None
+[W 11:53:51.900 NotebookApp] Forbidden
+[W 11:53:51.901 NotebookApp] 403 GET /api/sessions?1573613631895 (127.0.0.1) 2.62ms referer=None
+[W 11:54:00.882 NotebookApp] Forbidden
+[W 11:54:00.883 NotebookApp] 403 GET /api/kernelspecs?1573613640878 (127.0.0.1) 2.73ms referer=None
+[W 11:54:01.901 NotebookApp] Forbidden
+[W 11:54:01.902 NotebookApp] 403 GET /api/sessions?1573613641896 (127.0.0.1) 2.73ms referer=None
+[W 11:54:11.902 NotebookApp] Forbidden
+[W 11:54:11.903 NotebookApp] 403 GET /api/sessions?1573613651897 (127.0.0.1) 2.60ms referer=None
+[W 11:54:21.902 NotebookApp] Forbidden
+[W 11:54:21.903 NotebookApp] 403 GET /api/sessions?1573613661898 (127.0.0.1) 2.26ms referer=None
+[W 11:54:31.902 NotebookApp] Forbidden
+[W 11:54:31.903 NotebookApp] 403 GET /api/sessions?1573613671897 (127.0.0.1) 2.68ms referer=None
+[W 11:54:41.902 NotebookApp] Forbidden
+[W 11:54:41.903 NotebookApp] 403 GET /api/sessions?1573613681897 (127.0.0.1) 2.68ms referer=None
+[W 11:54:51.902 NotebookApp] Forbidden
+[W 11:54:51.903 NotebookApp] 403 GET /api/sessions?1573613691897 (127.0.0.1) 2.74ms referer=None
+[W 11:55:01.881 NotebookApp] Forbidden
+[W 11:55:01.883 NotebookApp] 403 GET /api/kernelspecs?1573613701878 (127.0.0.1) 2.70ms referer=None
+[W 11:55:01.901 NotebookApp] Forbidden
+[W 11:55:01.902 NotebookApp] 403 GET /api/sessions?1573613701898 (127.0.0.1) 1.89ms referer=None
+[W 11:55:11.903 NotebookApp] Forbidden
+[W 11:55:11.904 NotebookApp] 403 GET /api/sessions?1573613711898 (127.0.0.1) 2.61ms referer=None
+[W 11:55:21.903 NotebookApp] Forbidden
+[W 11:55:21.904 NotebookApp] 403 GET /api/sessions?1573613721899 (127.0.0.1) 2.69ms referer=None
+[W 11:55:31.903 NotebookApp] Forbidden
+[W 11:55:31.904 NotebookApp] 403 GET /api/sessions?1573613731898 (127.0.0.1) 2.56ms referer=None
+[W 11:55:41.903 NotebookApp] Forbidden
+[W 11:55:41.904 NotebookApp] 403 GET /api/sessions?1573613741898 (127.0.0.1) 2.67ms referer=None
+[W 11:55:51.903 NotebookApp] Forbidden
+[W 11:55:51.904 NotebookApp] 403 GET /api/sessions?1573613751898 (127.0.0.1) 2.67ms referer=None
+[W 11:56:01.903 NotebookApp] Forbidden
+[W 11:56:01.904 NotebookApp] 403 GET /api/sessions?1573613761899 (127.0.0.1) 2.74ms referer=None
+[W 11:56:02.883 NotebookApp] Forbidden
+[W 11:56:02.884 NotebookApp] 403 GET /api/kernelspecs?1573613762879 (127.0.0.1) 2.74ms referer=None
+[W 11:56:11.904 NotebookApp] Forbidden
+[W 11:56:11.905 NotebookApp] 403 GET /api/sessions?1573613771899 (127.0.0.1) 2.95ms referer=None
+[W 11:56:21.903 NotebookApp] Forbidden
+[W 11:56:21.904 NotebookApp] 403 GET /api/sessions?1573613781898 (127.0.0.1) 2.67ms referer=None
+[W 11:56:31.905 NotebookApp] Forbidden
+[W 11:56:31.906 NotebookApp] 403 GET /api/sessions?1573613791898 (127.0.0.1) 2.68ms referer=None
+[W 11:56:41.903 NotebookApp] Forbidden
+[W 11:56:41.904 NotebookApp] 403 GET /api/sessions?1573613801899 (127.0.0.1) 2.45ms referer=None
+[W 11:56:51.905 NotebookApp] Forbidden
+[W 11:56:51.906 NotebookApp] 403 GET /api/sessions?1573613811900 (127.0.0.1) 2.82ms referer=None
+[W 11:57:01.905 NotebookApp] Forbidden
+[W 11:57:01.906 NotebookApp] 403 GET /api/sessions?1573613821901 (127.0.0.1) 2.62ms referer=None
+[W 11:57:03.884 NotebookApp] Forbidden
+[W 11:57:03.885 NotebookApp] 403 GET /api/kernelspecs?1573613823879 (127.0.0.1) 2.49ms referer=None
+[W 11:57:11.905 NotebookApp] Forbidden
+[W 11:57:11.906 NotebookApp] 403 GET /api/sessions?1573613831901 (127.0.0.1) 2.67ms referer=None
+[W 11:57:21.904 NotebookApp] Forbidden
+[W 11:57:21.905 NotebookApp] 403 GET /api/sessions?1573613841901 (127.0.0.1) 1.45ms referer=None
+[W 11:57:31.906 NotebookApp] Forbidden
+[W 11:57:31.907 NotebookApp] 403 GET /api/sessions?1573613851902 (127.0.0.1) 2.66ms referer=None
+[W 11:57:41.907 NotebookApp] Forbidden
+[W 11:57:41.908 NotebookApp] 403 GET /api/sessions?1573613861902 (127.0.0.1) 2.60ms referer=None
+[I 11:57:47.373 NotebookApp] Kernel interrupted: 2e3073cb-4327-4797-97c7-8f5df2dcb915
+[W 11:57:51.907 NotebookApp] Forbidden
+[W 11:57:51.908 NotebookApp] 403 GET /api/sessions?1573613871903 (127.0.0.1) 2.68ms referer=None
+[W 11:58:01.907 NotebookApp] Forbidden
+[W 11:58:01.908 NotebookApp] 403 GET /api/sessions?1573613881903 (127.0.0.1) 2.36ms referer=None
+[W 11:58:04.884 NotebookApp] Forbidden
+[W 11:58:04.885 NotebookApp] 403 GET /api/kernelspecs?1573613884880 (127.0.0.1) 2.36ms referer=None
+[W 11:58:11.907 NotebookApp] Forbidden
+[W 11:58:11.909 NotebookApp] 403 GET /api/sessions?1573613891903 (127.0.0.1) 2.71ms referer=None
+[I 11:58:12.048 NotebookApp] Creating new notebook in /
+[I 11:58:17.959 NotebookApp] Kernel shutdown: 2e3073cb-4327-4797-97c7-8f5df2dcb915
+[I 11:58:18.075 NotebookApp] Kernel started: a11ac304-4d4f-4a54-9b93-4a1967312614
+[W 11:58:21.907 NotebookApp] Forbidden
+[W 11:58:21.908 NotebookApp] 403 GET /api/sessions?1573613901903 (127.0.0.1) 2.51ms referer=None
+[W 11:58:31.908 NotebookApp] Forbidden
+[W 11:58:31.909 NotebookApp] 403 GET /api/sessions?1573613911904 (127.0.0.1) 2.61ms referer=None
+[W 11:58:41.908 NotebookApp] Forbidden
+[W 11:58:41.909 NotebookApp] 403 GET /api/sessions?1573613921903 (127.0.0.1) 2.63ms referer=None
+[W 11:58:51.908 NotebookApp] Forbidden
+[W 11:58:51.909 NotebookApp] 403 GET /api/sessions?1573613931904 (127.0.0.1) 2.38ms referer=None
+[W 11:59:01.908 NotebookApp] Forbidden
+[W 11:59:01.909 NotebookApp] 403 GET /api/sessions?1573613941904 (127.0.0.1) 2.35ms referer=None
+[W 11:59:05.885 NotebookApp] Forbidden
+[W 11:59:05.886 NotebookApp] 403 GET /api/kernelspecs?1573613945881 (127.0.0.1) 2.71ms referer=None
+[W 11:59:11.909 NotebookApp] Forbidden
+[W 11:59:11.910 NotebookApp] 403 GET /api/sessions?1573613951904 (127.0.0.1) 2.74ms referer=None
+[W 11:59:21.908 NotebookApp] Forbidden
+[W 11:59:21.909 NotebookApp] 403 GET /api/sessions?1573613961904 (127.0.0.1) 2.77ms referer=None
+[W 11:59:31.908 NotebookApp] Forbidden
+[W 11:59:31.909 NotebookApp] 403 GET /api/sessions?1573613971903 (127.0.0.1) 2.70ms referer=None
+[W 11:59:41.908 NotebookApp] Forbidden
+[W 11:59:41.909 NotebookApp] 403 GET /api/sessions?1573613981904 (127.0.0.1) 2.62ms referer=None
+[W 11:59:51.908 NotebookApp] Forbidden
+[W 11:59:51.909 NotebookApp] 403 GET /api/sessions?1573613991903 (127.0.0.1) 2.67ms referer=None
+[W 12:00:01.907 NotebookApp] Forbidden
+[W 12:00:01.907 NotebookApp] 403 GET /api/sessions?1573614001903 (127.0.0.1) 1.92ms referer=None
+[W 12:00:06.885 NotebookApp] Forbidden
+[W 12:00:06.886 NotebookApp] 403 GET /api/kernelspecs?1573614006881 (127.0.0.1) 2.31ms referer=None
+[W 12:00:11.908 NotebookApp] Forbidden
+[W 12:00:11.909 NotebookApp] 403 GET /api/sessions?1573614011903 (127.0.0.1) 2.67ms referer=None
+[I 12:00:17.817 NotebookApp] 302 GET /?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 1.41ms
+[W 12:00:17.865 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:17.920 NotebookApp] 403 GET /tree?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 56.08ms referer=None
+[W 12:00:18.138 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.143 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 6.52ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.148 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.152 NotebookApp] 403 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (127.0.0.1) 6.01ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.162 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.165 NotebookApp] 403 GET /static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3 (127.0.0.1) 4.06ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.167 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.168 NotebookApp] 403 GET /custom/custom.css (127.0.0.1) 2.42ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.170 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.171 NotebookApp] 403 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (127.0.0.1) 2.27ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.177 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.180 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 3.09ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.182 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.185 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 2.93ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.193 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.195 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 3.59ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.206 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.208 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 3.27ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.210 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.212 NotebookApp] 403 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (127.0.0.1) 2.95ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.808 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.811 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 4.72ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.862 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.865 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 4.26ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.911 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.914 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 5.09ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:18.959 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:18.962 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 5.11ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:19.002 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:19.004 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 3.43ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:19.810 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:19.813 NotebookApp] 403 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (127.0.0.1) 5.20ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:21.908 NotebookApp] Forbidden
+[W 12:00:21.909 NotebookApp] 403 GET /api/sessions?1573614021904 (127.0.0.1) 2.64ms referer=None
+[I 12:00:30.401 NotebookApp] 302 GET /?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 1.56ms
+[W 12:00:30.439 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.442 NotebookApp] 403 GET /tree?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 4.77ms referer=None
+[W 12:00:30.525 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.528 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 4.34ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.531 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.533 NotebookApp] 403 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (127.0.0.1) 3.71ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.543 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.546 NotebookApp] 403 GET /static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3 (127.0.0.1) 8.68ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.547 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.548 NotebookApp] 403 GET /custom/custom.css (127.0.0.1) 8.64ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.548 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.550 NotebookApp] 403 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (127.0.0.1) 8.23ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.552 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.553 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 1.94ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.566 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.569 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 3.40ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.573 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.576 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 3.25ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.586 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.589 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 3.59ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:30.591 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:30.593 NotebookApp] 403 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (127.0.0.1) 3.53ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:31.136 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:31.139 NotebookApp] 403 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (127.0.0.1) 5.44ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:31.908 NotebookApp] Forbidden
+[W 12:00:31.909 NotebookApp] 403 GET /api/sessions?1573614031904 (127.0.0.1) 2.23ms referer=None
+[W 12:00:41.909 NotebookApp] Forbidden
+[W 12:00:41.910 NotebookApp] 403 GET /api/sessions?1573614041904 (127.0.0.1) 2.99ms referer=None
+[W 12:00:47.337 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.341 NotebookApp] 403 GET /tree?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 5.62ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:47.450 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.454 NotebookApp] 403 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (127.0.0.1) 8.24ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.454 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.457 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 9.41ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.462 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.464 NotebookApp] 403 GET /custom/custom.css (127.0.0.1) 4.24ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.464 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.465 NotebookApp] 403 GET /static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3 (127.0.0.1) 4.82ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.466 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.467 NotebookApp] 403 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (127.0.0.1) 5.59ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.469 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.470 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 2.42ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.561 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.563 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 6.32ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.564 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.565 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 6.19ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.568 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.569 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 3.84ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:47.570 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:47.571 NotebookApp] 403 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (127.0.0.1) 4.62ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.020 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.023 NotebookApp] 403 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (127.0.0.1) 4.52ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:48.533 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.536 NotebookApp] 403 GET /tree?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 5.09ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:48.637 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.639 NotebookApp] 403 GET /custom/custom.css (127.0.0.1) 6.39ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.640 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.642 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 7.25ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.642 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.644 NotebookApp] 403 GET /static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3 (127.0.0.1) 7.92ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.648 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.649 NotebookApp] 403 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (127.0.0.1) 4.03ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.649 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.651 NotebookApp] 403 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (127.0.0.1) 4.76ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.651 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.652 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 5.51ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.687 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.690 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 4.37ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.693 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.694 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 3.16ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.694 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.696 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 3.84ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.697 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.699 NotebookApp] 403 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (127.0.0.1) 2.27ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:48.975 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:48.978 NotebookApp] 403 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (127.0.0.1) 5.13ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:51.023 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.027 NotebookApp] 403 GET /tree?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 5.04ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:51.121 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.124 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 6.80ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.125 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.128 NotebookApp] 403 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (127.0.0.1) 8.27ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.132 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.134 NotebookApp] 403 GET /static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3 (127.0.0.1) 4.05ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.134 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.136 NotebookApp] 403 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (127.0.0.1) 5.04ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.137 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.139 NotebookApp] 403 GET /custom/custom.css (127.0.0.1) 3.15ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.141 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.143 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 3.14ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.173 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.176 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 3.88ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.179 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.181 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 2.98ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.183 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.185 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 3.91ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.185 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.187 NotebookApp] 403 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (127.0.0.1) 4.91ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:51.429 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:51.433 NotebookApp] 403 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (127.0.0.1) 6.08ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:51.909 NotebookApp] Forbidden
+[W 12:00:51.911 NotebookApp] 403 GET /api/sessions?1573614051905 (127.0.0.1) 2.64ms referer=None
+[W 12:00:52.861 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:52.864 NotebookApp] 403 GET /tree?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 4.81ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:52.948 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:52.951 NotebookApp] 403 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (127.0.0.1) 5.22ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:52.951 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:52.953 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 6.19ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:52.958 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:52.960 NotebookApp] 403 GET /static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3 (127.0.0.1) 4.75ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:52.960 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:52.962 NotebookApp] 403 GET /custom/custom.css (127.0.0.1) 5.67ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:52.962 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:52.964 NotebookApp] 403 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (127.0.0.1) 6.92ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:52.965 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:52.967 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 2.79ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:52.999 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:53.001 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 3.58ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:53.002 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:53.004 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 1.99ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:53.006 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:53.008 NotebookApp] 403 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (127.0.0.1) 2.64ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:53.008 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:53.009 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 3.47ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:53.256 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:53.260 NotebookApp] 403 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (127.0.0.1) 5.20ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:54.584 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.587 NotebookApp] 403 GET /tree?token=205f49afee68c69207b308428de85609be506c60255fc170 (127.0.0.1) 5.10ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:00:54.683 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.687 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 4.70ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.713 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.716 NotebookApp] 403 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (127.0.0.1) 6.61ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.716 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.718 NotebookApp] 403 GET /static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3 (127.0.0.1) 6.76ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.723 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.725 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 5.42ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.726 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.728 NotebookApp] 403 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (127.0.0.1) 6.45ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.728 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.730 NotebookApp] 403 GET /custom/custom.css (127.0.0.1) 7.49ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.736 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.737 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 2.17ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.757 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.760 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 5.10ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.764 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.766 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 3.34ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:54.785 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:54.788 NotebookApp] 403 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (127.0.0.1) 4.28ms referer=http://b55f078b.jp.ngrok.io/tree?token=205f49afee68c69207b308428de85609be506c60255fc170
+[W 12:00:55.095 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:00:55.099 NotebookApp] 403 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (127.0.0.1) 5.20ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:01.910 NotebookApp] Forbidden
+[W 12:01:01.911 NotebookApp] 403 GET /api/sessions?1573614061905 (127.0.0.1) 2.56ms referer=None
+[W 12:01:07.887 NotebookApp] Forbidden
+[W 12:01:07.888 NotebookApp] 403 GET /api/kernelspecs?1573614067882 (127.0.0.1) 2.80ms referer=None
+[W 12:01:11.910 NotebookApp] Forbidden
+[W 12:01:11.910 NotebookApp] 403 GET /api/sessions?1573614071906 (127.0.0.1) 1.90ms referer=None
+[W 12:01:21.910 NotebookApp] Forbidden
+[W 12:01:21.911 NotebookApp] 403 GET /api/sessions?1573614081907 (127.0.0.1) 2.07ms referer=None
+[W 12:01:31.911 NotebookApp] Forbidden
+[W 12:01:31.912 NotebookApp] 403 GET /api/sessions?1573614091906 (127.0.0.1) 2.81ms referer=None
+[W 12:01:41.910 NotebookApp] Forbidden
+[W 12:01:41.911 NotebookApp] 403 GET /api/sessions?1573614101906 (127.0.0.1) 2.52ms referer=None
+[W 12:01:43.149 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.151 NotebookApp] 403 GET /tree (127.0.0.1) 3.82ms referer=None
+[W 12:01:43.257 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.260 NotebookApp] 403 GET /static/components/jquery-ui/themes/smoothness/jquery-ui.min.css?v=3c2a865c832a1322285c55c6ed99abb2 (127.0.0.1) 5.76ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.270 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.272 NotebookApp] 403 GET /static/components/react/react.production.min.js?v=34f96ffc962a7deecc83037ccb582b58 (127.0.0.1) 6.77ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.272 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.274 NotebookApp] 403 GET /custom/custom.css (127.0.0.1) 6.67ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.274 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.276 NotebookApp] 403 GET /static/style/style.min.css?v=e91a43337d7c294cc9fab2938fa723b3 (127.0.0.1) 7.43ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.276 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.277 NotebookApp] 403 GET /static/components/jquery-typeahead/dist/jquery.typeahead.min.css?v=7afb461de36accb1aa133a1710f5bc56 (127.0.0.1) 8.31ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.277 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.279 NotebookApp] 403 GET /static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe (127.0.0.1) 9.11ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.310 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.314 NotebookApp] 403 GET /static/components/react/react-dom.production.min.js?v=b14d91fb641317cda38dbc9dbf985ab4 (127.0.0.1) 5.93ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.319 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.321 NotebookApp] 403 GET /static/components/create-react-class/index.js?v=94feb9971ce6d26211729abc43f96cd2 (127.0.0.1) 4.33ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.321 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.322 NotebookApp] 403 GET /static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f (127.0.0.1) 4.79ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.323 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.324 NotebookApp] 403 GET /static/base/images/logo.png?v=641991992878ee24c6f3826e81054a0f (127.0.0.1) 5.48ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:43.745 NotebookApp] Blocking request with non-local 'Host' b55f078b.jp.ngrok.io (b55f078b.jp.ngrok.io). If the notebook should be accessible at that name, set NotebookApp.allow_remote_access to disable the check.
+[W 12:01:43.748 NotebookApp] 403 GET /static/base/images/favicon.ico?v=97c6417ed01bdc0ae3ef32ae4894fd03 (127.0.0.1) 4.55ms referer=http://b55f078b.jp.ngrok.io/tree
+[W 12:01:51.912 NotebookApp] Forbidden
+[W 12:01:51.913 NotebookApp] 403 GET /api/sessions?1573614111907 (127.0.0.1) 2.62ms referer=None
+[W 12:02:01.912 NotebookApp] Forbidden
+[W 12:02:01.913 NotebookApp] 403 GET /api/sessions?1573614121907 (127.0.0.1) 2.74ms referer=None
+[W 12:02:08.888 NotebookApp] Forbidden
+[W 12:02:08.889 NotebookApp] 403 GET /api/kernelspecs?1573614128883 (127.0.0.1) 2.77ms referer=None
+[W 12:02:11.911 NotebookApp] Forbidden
+[W 12:02:11.912 NotebookApp] 403 GET /api/sessions?1573614131907 (127.0.0.1) 2.54ms referer=None
+[I 12:02:14.246 NotebookApp] Creating new notebook in /
+[I 12:02:14.955 NotebookApp] Kernel shutdown: 9d0a680c-069a-4102-8c94-681738ed70ad
+[I 12:02:14.992 NotebookApp] Kernel started: 92704f47-54e9-4245-b73e-3d0ddf03e1e7
+[W 12:02:21.911 NotebookApp] Forbidden
+[W 12:02:21.912 NotebookApp] 403 GET /api/sessions?1573614141907 (127.0.0.1) 2.28ms referer=None
+[W 12:02:31.913 NotebookApp] Forbidden
+[W 12:02:31.914 NotebookApp] 403 GET /api/sessions?1573614151908 (127.0.0.1) 2.96ms referer=None
+[W 12:02:41.913 NotebookApp] Forbidden
+[W 12:02:41.914 NotebookApp] 403 GET /api/sessions?1573614161909 (127.0.0.1) 2.55ms referer=None
+[W 12:02:52.293 NotebookApp] Forbidden
+[W 12:02:52.293 NotebookApp] 403 GET /api/sessions?1573614172277 (127.0.0.1) 1.94ms referer=None
+[W 12:03:02.282 NotebookApp] Forbidden
+[W 12:03:02.283 NotebookApp] 403 GET /api/sessions?1573614182278 (127.0.0.1) 2.80ms referer=None
+[W 12:03:09.888 NotebookApp] Forbidden
+[W 12:03:09.889 NotebookApp] 403 GET /api/kernelspecs?1573614189884 (127.0.0.1) 2.79ms referer=None
+[W 12:03:12.282 NotebookApp] Forbidden
+[W 12:03:12.283 NotebookApp] 403 GET /api/sessions?1573614192279 (127.0.0.1) 2.28ms referer=None
+[W 12:03:22.285 NotebookApp] Forbidden
+[W 12:03:22.286 NotebookApp] 403 GET /api/sessions?1573614202279 (127.0.0.1) 2.91ms referer=None
+[W 12:03:32.286 NotebookApp] Forbidden
+[W 12:03:32.287 NotebookApp] 403 GET /api/sessions?1573614212282 (127.0.0.1) 2.84ms referer=None
+[W 12:03:42.285 NotebookApp] Forbidden
+[W 12:03:42.287 NotebookApp] 403 GET /api/sessions?1573614222281 (127.0.0.1) 2.87ms referer=None
+[W 12:03:52.290 NotebookApp] Forbidden
+[W 12:03:52.291 NotebookApp] 403 GET /api/sessions?1573614232282 (127.0.0.1) 4.57ms referer=None
+[W 12:04:02.287 NotebookApp] Forbidden
+[W 12:04:02.289 NotebookApp] 403 GET /api/sessions?1573614242283 (127.0.0.1) 2.82ms referer=None
+[W 12:04:10.889 NotebookApp] Forbidden
+[W 12:04:10.891 NotebookApp] 403 GET /api/kernelspecs?1573614250884 (127.0.0.1) 2.78ms referer=None
+[W 12:04:12.287 NotebookApp] Forbidden
+[W 12:04:12.288 NotebookApp] 403 GET /api/sessions?1573614252284 (127.0.0.1) 2.21ms referer=None
+[W 12:04:22.288 NotebookApp] Forbidden
+[W 12:04:22.289 NotebookApp] 403 GET /api/sessions?1573614262284 (127.0.0.1) 2.83ms referer=None
+[W 12:04:32.291 NotebookApp] Forbidden
+[W 12:04:32.292 NotebookApp] 403 GET /api/sessions?1573614272285 (127.0.0.1) 2.46ms referer=None
+[W 12:04:42.290 NotebookApp] Forbidden
+[W 12:04:42.298 NotebookApp] 403 GET /api/sessions?1573614282286 (127.0.0.1) 9.13ms referer=None
+[W 12:04:52.292 NotebookApp] Forbidden
+[W 12:04:52.293 NotebookApp] 403 GET /api/sessions?1573614292288 (127.0.0.1) 2.91ms referer=None
+[W 12:05:02.292 NotebookApp] Forbidden
+[W 12:05:02.293 NotebookApp] 403 GET /api/sessions?1573614302288 (127.0.0.1) 2.91ms referer=None
+[W 12:05:11.890 NotebookApp] Forbidden
+[W 12:05:11.891 NotebookApp] 403 GET /api/kernelspecs?1573614311885 (127.0.0.1) 2.73ms referer=None
+[W 12:05:12.297 NotebookApp] Forbidden
+[W 12:05:12.298 NotebookApp] 403 GET /api/sessions?1573614312288 (127.0.0.1) 4.47ms referer=None
+[W 12:05:22.296 NotebookApp] Forbidden
+[W 12:05:22.296 NotebookApp] 403 GET /api/sessions?1573614322289 (127.0.0.1) 1.96ms referer=None
+[W 12:05:32.293 NotebookApp] Forbidden
+[W 12:05:32.294 NotebookApp] 403 GET /api/sessions?1573614332289 (127.0.0.1) 2.27ms referer=None
+[W 12:05:42.296 NotebookApp] Forbidden
+[W 12:05:42.297 NotebookApp] 403 GET /api/sessions?1573614342291 (127.0.0.1) 2.90ms referer=None
+[W 12:05:52.295 NotebookApp] Forbidden
+[W 12:05:52.296 NotebookApp] 403 GET /api/sessions?1573614352291 (127.0.0.1) 2.90ms referer=None
+[W 12:06:02.295 NotebookApp] Forbidden
+[W 12:06:02.296 NotebookApp] 403 GET /api/sessions?1573614362291 (127.0.0.1) 2.87ms referer=None
+[W 12:06:12.297 NotebookApp] Forbidden
+[W 12:06:12.298 NotebookApp] 403 GET /api/sessions?1573614372291 (127.0.0.1) 3.18ms referer=None
+[W 12:06:12.890 NotebookApp] Forbidden
+[W 12:06:12.891 NotebookApp] 403 GET /api/kernelspecs?1573614372885 (127.0.0.1) 3.42ms referer=None
+[C 12:06:16.433 NotebookApp] received signal 15, stopping
+[I 12:06:16.435 NotebookApp] Shutting down 2 kernels
+[I 12:06:16.939 NotebookApp] Kernel shutdown: a11ac304-4d4f-4a54-9b93-4a1967312614
+[I 12:06:16.940 NotebookApp] Kernel shutdown: 92704f47-54e9-4245-b73e-3d0ddf03e1e7
