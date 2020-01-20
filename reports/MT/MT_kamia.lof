@@ -1,0 +1,11 @@
+\addvspace {10pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Mobile operating systems's market share worldwide from January 2012 to July 2019 \cite {androidshare}\relax }}{1}{figure.caption.6}
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Total mobile malware \cite {mcafee}\relax }}{2}{figure.caption.7}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Android operating system architecture\relax }}{4}{figure.caption.9}
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Overview of the different files and folders obtained after unzipping an \ac {apk}\relax }}{5}{figure.caption.10}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Extraction and representation of static information into representative feature vectors. \cite {andropytool}\relax }}{10}{figure.caption.14}
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Stacking pipeline figure.\relax }}{11}{figure.caption.15}
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Proposed Stacking model pipeline figure.\relax }}{12}{figure.caption.16}
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Proposed malware detection system pipeline figure.\relax }}{13}{figure.caption.17}

@@ -1,0 +1,29 @@
+\BOOKMARK [0][-]{chapter.1}{Chapter Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Chapter Background}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Overview of Android OS}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{APK file structure}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Android Malware}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.4}{Analysis techniques for applications}{chapter.2}% 6
+\BOOKMARK [2][-]{subsection.2.4.1}{Static Analysis}{section.2.4}% 7
+\BOOKMARK [2][-]{subsection.2.4.2}{Dynamic Analysis}{section.2.4}% 8
+\BOOKMARK [2][-]{subsection.2.4.3}{Hybrid Analysis}{section.2.4}% 9
+\BOOKMARK [1][-]{section.2.5}{State-of-the-art machine learning algorithms for Android malware detection}{chapter.2}% 10
+\BOOKMARK [2][-]{subsection.2.5.1}{Decision Trees}{section.2.5}% 11
+\BOOKMARK [2][-]{subsection.2.5.2}{Random Forest}{section.2.5}% 12
+\BOOKMARK [2][-]{subsection.2.5.3}{K-nearest neighbors}{section.2.5}% 13
+\BOOKMARK [2][-]{subsection.2.5.4}{Support Vector Machine}{section.2.5}% 14
+\BOOKMARK [2][-]{subsection.2.5.5}{Logistic Regression}{section.2.5}% 15
+\BOOKMARK [2][-]{subsection.2.5.6}{Gradient boosting}{section.2.5}% 16
+\BOOKMARK [3][-]{section*.11}{XGBoost}{subsection.2.5.6}% 17
+\BOOKMARK [3][-]{section*.12}{LightGBM}{subsection.2.5.6}% 18
+\BOOKMARK [3][-]{section*.13}{Catboost}{subsection.2.5.6}% 19
+\BOOKMARK [2][-]{subsection.2.5.7}{Artificial Neural Networks}{section.2.5}% 20
+\BOOKMARK [0][-]{chapter.3}{Chapter Methodology}{}% 21
+\BOOKMARK [1][-]{section.3.1}{Dataset}{chapter.3}% 22
+\BOOKMARK [1][-]{section.3.2}{Static Features extraction}{chapter.3}% 23
+\BOOKMARK [1][-]{section.3.3}{Stacking}{chapter.3}% 24
+\BOOKMARK [1][-]{section.3.4}{Proposed model pipeline}{chapter.3}% 25
+\BOOKMARK [2][-]{subsection.3.4.1}{1st Stage}{section.3.4}% 26
+\BOOKMARK [2][-]{subsection.3.4.2}{2nd Stage}{section.3.4}% 27
+\BOOKMARK [2][-]{subsection.3.4.3}{3rd Stage}{section.3.4}% 28
+\BOOKMARK [1][-]{section.3.5}{Proposed Malware detection System}{chapter.3}% 29
