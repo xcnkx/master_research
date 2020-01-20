@@ -9,3 +9,7 @@
 \contentsline {figure}{\numberline {3.2}{\ignorespaces Stacking pipeline figure.\relax }}{11}{figure.caption.15}
 \contentsline {figure}{\numberline {3.3}{\ignorespaces Proposed Stacking model pipeline figure.\relax }}{12}{figure.caption.16}
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Proposed malware detection system pipeline figure.\relax }}{13}{figure.caption.17}
+\contentsline {figure}{\numberline {3.5}{\ignorespaces One hot encoding explained in an image.\relax }}{14}{figure.caption.20}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 1st Stage models CV accuracy score average\relax }}{16}{figure.caption.22}
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 2nd Stage models CV accuracy score\relax }}{16}{figure.caption.24}

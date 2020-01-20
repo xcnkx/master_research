@@ -27,3 +27,11 @@
 \BOOKMARK [2][-]{subsection.3.4.2}{2nd Stage}{section.3.4}% 27
 \BOOKMARK [2][-]{subsection.3.4.3}{3rd Stage}{section.3.4}% 28
 \BOOKMARK [1][-]{section.3.5}{Proposed Malware detection System}{chapter.3}% 29
+\BOOKMARK [2][-]{subsection.3.5.1}{AndroPytool module}{section.3.5}% 30
+\BOOKMARK [2][-]{subsection.3.5.2}{Preprocessing data}{section.3.5}% 31
+\BOOKMARK [3][-]{section*.18}{Standard scaling}{subsection.3.5.2}% 32
+\BOOKMARK [3][-]{section*.19}{One-hot encoding}{subsection.3.5.2}% 33
+\BOOKMARK [2][-]{subsection.3.5.3}{Prediction of malware}{section.3.5}% 34
+\BOOKMARK [0][-]{chapter.4}{Chapter Experiments and Results}{}% 35
+\BOOKMARK [1][-]{section.4.1}{1st Stage training experiments}{chapter.4}% 36
+\BOOKMARK [1][-]{section.4.2}{2nd Stage training experiments}{chapter.4}% 37
