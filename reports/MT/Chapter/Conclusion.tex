@@ -1,1 +1,14 @@
 \chapter{Conclusion}
+
+In this paper, we proposed a novel Android malware detection system using static features extracted from the application files. This system uses a model implemented with several machine learning algorithms combined with our proposed Stacking method to get the best performance of all algorithms. We evaluated our proposed system with 20,000 samples of applications downloaded from Androzoo \cite{androzoo} database.
+Among these, static features have proved to be a powerful instrument to represent the behavior of each sample, and they have been used to train different ensemble classifiers that have reached high accuracy values. 
+
+Using only one model with static features allow reaching an appealing almost 87.9\verb+%+ of accuracy. 
+But with our proposed Stacking method, we could improve the accuracy of classification to about 93.6\verb+%+ at the 2nd training stage.
+In the 3rd stage, the accuracy down about 1\verb+%+ because of the small dataset.
+We could demonstrate that the Stacking method is a powerful way to improve classification models but using it repeatedly may cause the model poor performance. 
+
+Another remarkable result is that the description of a single component of the Android platform describing the use of API calls enables to build the most representative feature space, that is to say, the space
+where instances of malware and benignware can be better differentiated.
+
+For future work, we want to try to find the best combination of static features to create the best classification model. For example, trying to build the model with only the best 3 or 2 static features (API calls, Opcodes, Receivers) in Figure \ref{fig:1ststage}.

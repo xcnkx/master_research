@@ -1,0 +1,7 @@
+\chapter{Conclusion}
+
+Finally, some conclusions can be made on the basis of the results obtained. In general,
+static features allow to reach an appealing almost 90% accuracy and precision. What it is more
+remarkable is that the description of a single component of the Android platform describing the
+use of API calls enables to build the most representative feature space, that is to say, the space
+where instances of malware and goodware can be better differentiated.

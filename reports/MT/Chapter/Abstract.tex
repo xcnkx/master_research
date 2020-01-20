@@ -1,3 +1,11 @@
 \chapter*{Abstract}
 % % There is no page number in abstract
 \thispagestyle{empty}
+
+Android has been intently picked as the main target by many malware creators for
+designing new malicious applications. Every day, thousands of new malware samples
+try to circumvent the security measures implemented by Android applications stores,
+aiming to infect new devices. In order to tackle this problem, it is required to research and develop mechanisms able to classify large amounts of suspicious samples
+automatically, detecting those that contain a malicious payload.
+
+In this thesis, we proposed a novel end-to-end Android malware detection system using static features extracted from the application files to try to detect a malware application. We extracted 7 different Static features to use for input data. Also, this system uses a machine learning model implemented with several machine learning algorithms combined with our proposed Stacking method that is often used in Kaggle competitions to get the best performance of the algorithms. We evaluated our proposed system with 20,000 samples of applications downloaded from Androzoo \cite{androzoo} database. Our proposed system reach to 93.6\verb+%+ of accuracy when implementing our proposed stacking method.

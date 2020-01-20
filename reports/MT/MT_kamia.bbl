@@ -39,6 +39,16 @@ G.~D. Raj~Samani. Mobile malware continues to increase in complexity and scope.
 A.~Martín~García, R.~Lara-Cabrera, and D.~Camacho, ``A new tool for static
   and dynamic android malware analysis,'' 09 2018, pp. 509--516.
 
+\bibitem{androzoo}
+\BIBentryALTinterwordspacing
+K.~Allix, T.~F. Bissyand{\'e}, J.~Klein, and Y.~Le~Traon, ``Androzoo:
+  Collecting millions of android apps for the research community,'' in
+  \emph{Proceedings of the 13th International Conference on Mining Software
+  Repositories}, ser. MSR '16.\hskip 1em plus 0.5em minus 0.4em\relax New York,
+  NY, USA: ACM, 2016, pp. 468--471. [Online]. Available:
+  \url{http://doi.acm.org/10.1145/2901739.2903508}
+\BIBentrySTDinterwordspacing
+
 \bibitem{dl-droid}
 \BIBentryALTinterwordspacing
 M.~K. Alzaylaee, S.~Y. Yerima, and S.~Sezer, ``Dl-droid: Deep learning based
@@ -138,16 +148,6 @@ J.~V. Tu, ``Advantages and disadvantages of using artificial neural networks
   of Clinical Epidemiology}, vol.~49, no.~11, pp. 1225 -- 1231, 1996. [Online].
   Available:
   \url{http://www.sciencedirect.com/science/article/pii/S0895435696000029}
-\BIBentrySTDinterwordspacing
-
-\bibitem{androzoo}
-\BIBentryALTinterwordspacing
-K.~Allix, T.~F. Bissyand{\'e}, J.~Klein, and Y.~Le~Traon, ``Androzoo:
-  Collecting millions of android apps for the research community,'' in
-  \emph{Proceedings of the 13th International Conference on Mining Software
-  Repositories}, ser. MSR '16.\hskip 1em plus 0.5em minus 0.4em\relax New York,
-  NY, USA: ACM, 2016, pp. 468--471. [Online]. Available:
-  \url{http://doi.acm.org/10.1145/2901739.2903508}
 \BIBentrySTDinterwordspacing
 
 \bibitem{stackingref}
