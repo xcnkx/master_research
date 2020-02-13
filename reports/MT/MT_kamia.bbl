@@ -162,4 +162,29 @@ F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
   V.~Dubourg, J.~Vanderplas, A.~Passos, D.~Cournapeau, M.~Brucher, M.~Perrot,
   and Édouard Duchesnay, ``Scikit-learn: Machine learning in python,'' 2012.
 
+\bibitem{samaneh}
+S.~H. {Moghaddam} and M.~{Abbaspour}, ``Sensitivity analysis of static features
+  for android malware detection,'' in \emph{2014 22nd Iranian Conference on
+  Electrical Engineering (ICEE)}, May 2014, pp. 920--924.
+
+\bibitem{manzhi}
+{Manzhi Yang} and {QiaoYan Wen}, ``Detecting android malware with intensive
+  feature engineering,'' in \emph{2016 7th IEEE International Conference on
+  Software Engineering and Service Science (ICSESS)}, Aug 2016, pp. 157--161.
+
+\bibitem{ziwang}
+Z.~{Wang}, J.~{Cai}, S.~{Cheng}, and W.~{Li}, ``Droiddeeplearner: Identifying
+  android malware using deep learning,'' in \emph{2016 IEEE 37th Sarnoff
+  Symposium}, Sep. 2016, pp. 160--165.
+
+\bibitem{zarni}
+Z.~Aung and W.~Zaw, ``Permission-based android malware detection,''
+  \emph{International Journal of Scientific and Technology Research}, vol.~2,
+  pp. 228--234, 01 2013.
+
+\bibitem{xiong}
+P.~{Xiong}, X.~{Wang}, W.~{Niu}, T.~{Zhu}, and G.~{Li}, ``Android malware
+  detection with contrasting permission patterns,'' \emph{China
+  Communications}, vol.~11, no.~8, pp. 1--14, Aug 2014.
+
 \end{thebibliography}

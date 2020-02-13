@@ -23,45 +23,45 @@ Warning--empty booktitle in andropytool
 Warning--empty booktitle in svm
 
 Done.
-You've used 23 entries,
+You've used 28 entries,
             4087 wiz_defined-function locations,
-            948 strings with 11315 characters,
-and the built_in function-call counts, 14225 in all, are:
-= -- 1056
-> -- 352
-< -- 87
-+ -- 193
-- -- 67
-* -- 634
-:= -- 2140
-add.period$ -- 44
-call.type$ -- 23
-change.case$ -- 23
-chr.to.int$ -- 201
-cite$ -- 25
-duplicate$ -- 1052
-empty$ -- 1226
-format.name$ -- 79
-if$ -- 3296
+            974 strings with 12143 characters,
+and the built_in function-call counts, 18518 in all, are:
+= -- 1392
+> -- 449
+< -- 127
++ -- 250
+- -- 82
+* -- 839
+:= -- 2739
+add.period$ -- 54
+call.type$ -- 28
+change.case$ -- 28
+chr.to.int$ -- 297
+cite$ -- 30
+duplicate$ -- 1359
+empty$ -- 1588
+format.name$ -- 99
+if$ -- 4326
 int.to.chr$ -- 0
-int.to.str$ -- 23
-missing$ -- 220
-newline$ -- 122
-num.names$ -- 18
-pop$ -- 620
+int.to.str$ -- 28
+missing$ -- 272
+newline$ -- 137
+num.names$ -- 23
+pop$ -- 742
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 2
-skip$ -- 1078
+skip$ -- 1409
 stack$ -- 0
-substring$ -- 496
-swap$ -- 779
-text.length$ -- 20
+substring$ -- 724
+swap$ -- 1039
+text.length$ -- 28
 text.prefix$ -- 0
 top$ -- 5
-type$ -- 23
+type$ -- 28
 warning$ -- 2
-while$ -- 48
-width$ -- 25
-write$ -- 245
+while$ -- 68
+width$ -- 30
+write$ -- 293
 (There were 3 warnings)

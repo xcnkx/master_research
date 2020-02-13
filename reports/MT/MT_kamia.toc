@@ -1,39 +1,40 @@
 \contentsline {chapter}{{Chapter} \hbox to\@tempdima {1\hfil }Introduction}{1}{chapter.1}
-\contentsline {chapter}{{Chapter} \hbox to\@tempdima {2\hfil }Background}{4}{chapter.2}
-\contentsline {section}{\numberline {2.1}Overview of Android OS}{4}{section.2.1}
-\contentsline {section}{\numberline {2.2}APK file structure}{5}{section.2.2}
-\contentsline {section}{\numberline {2.3}Android Malware}{5}{section.2.3}
-\contentsline {section}{\numberline {2.4}Analysis techniques for applications}{6}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Static Analysis}{6}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Dynamic Analysis}{6}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Hybrid Analysis}{6}{subsection.2.4.3}
-\contentsline {section}{\numberline {2.5}State-of-the-art machine learning algorithms for Android malware detection}{6}{section.2.5}
-\contentsline {subsection}{\numberline {2.5.1}Decision Trees}{7}{subsection.2.5.1}
-\contentsline {subsection}{\numberline {2.5.2}Random Forest}{7}{subsection.2.5.2}
-\contentsline {subsection}{\numberline {2.5.3}K-nearest neighbors}{7}{subsection.2.5.3}
-\contentsline {subsection}{\numberline {2.5.4}Support Vector Machine}{7}{subsection.2.5.4}
-\contentsline {subsection}{\numberline {2.5.5}Logistic Regression}{7}{subsection.2.5.5}
-\contentsline {subsection}{\numberline {2.5.6}Gradient boosting}{7}{subsection.2.5.6}
-\contentsline {subsubsection}{XGBoost}{8}{section*.11}
-\contentsline {subsubsection}{LightGBM}{8}{section*.12}
-\contentsline {subsubsection}{Catboost}{8}{section*.13}
-\contentsline {subsection}{\numberline {2.5.7}Artificial Neural Networks}{8}{subsection.2.5.7}
-\contentsline {chapter}{{Chapter} \hbox to\@tempdima {3\hfil }Methodology}{9}{chapter.3}
-\contentsline {section}{\numberline {3.1}Dataset}{9}{section.3.1}
-\contentsline {section}{\numberline {3.2}Static Features extraction}{9}{section.3.2}
-\contentsline {section}{\numberline {3.3}Stacking}{10}{section.3.3}
-\contentsline {section}{\numberline {3.4}Proposed model pipeline}{12}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}1st Stage}{12}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}2nd Stage}{12}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}3rd Stage}{12}{subsection.3.4.3}
-\contentsline {section}{\numberline {3.5}Proposed Malware detection System}{13}{section.3.5}
-\contentsline {subsection}{\numberline {3.5.1}AndroPytool module}{13}{subsection.3.5.1}
-\contentsline {subsection}{\numberline {3.5.2}Preprocessing data}{13}{subsection.3.5.2}
-\contentsline {subsubsection}{Standard scaling}{13}{section*.18}
-\contentsline {subsubsection}{One-hot encoding}{14}{section*.19}
-\contentsline {subsection}{\numberline {3.5.3}Prediction of malware}{14}{subsection.3.5.3}
-\contentsline {chapter}{{Chapter} \hbox to\@tempdima {4\hfil }Experiments and Results}{15}{chapter.4}
-\contentsline {section}{\numberline {4.1}1st Stage training experiments}{15}{section.4.1}
-\contentsline {section}{\numberline {4.2}2nd Stage training experiments}{16}{section.4.2}
-\contentsline {section}{\numberline {4.3}3rd Stage training experiments}{17}{section.4.3}
-\contentsline {chapter}{{Chapter} \hbox to\@tempdima {5\hfil }Conclusion}{18}{chapter.5}
+\contentsline {chapter}{{Chapter} \hbox to\@tempdima {2\hfil }Background}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Overview of Android OS}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}APK file structure}{7}{section.2.2}
+\contentsline {section}{\numberline {2.3}Android Malware}{7}{section.2.3}
+\contentsline {section}{\numberline {2.4}Analysis techniques for applications}{8}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Static Analysis}{8}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Dynamic Analysis}{8}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Hybrid Analysis}{9}{subsection.2.4.3}
+\contentsline {section}{\numberline {2.5}State-of-the-art machine learning algorithms for Android malware detection}{9}{section.2.5}
+\contentsline {subsection}{\numberline {2.5.1}Decision Trees}{9}{subsection.2.5.1}
+\contentsline {subsection}{\numberline {2.5.2}Random Forest}{9}{subsection.2.5.2}
+\contentsline {subsection}{\numberline {2.5.3}K-nearest neighbors}{10}{subsection.2.5.3}
+\contentsline {subsection}{\numberline {2.5.4}Support Vector Machine}{10}{subsection.2.5.4}
+\contentsline {subsection}{\numberline {2.5.5}Logistic Regression}{10}{subsection.2.5.5}
+\contentsline {subsection}{\numberline {2.5.6}Gradient boosting}{10}{subsection.2.5.6}
+\contentsline {subsubsection}{XGBoost}{11}{section*.11}
+\contentsline {subsubsection}{LightGBM}{11}{section*.12}
+\contentsline {subsubsection}{Catboost}{11}{section*.13}
+\contentsline {subsection}{\numberline {2.5.7}Artificial Neural Networks}{11}{subsection.2.5.7}
+\contentsline {chapter}{{Chapter} \hbox to\@tempdima {3\hfil }Methodology}{12}{chapter.3}
+\contentsline {section}{\numberline {3.1}Dataset}{12}{section.3.1}
+\contentsline {section}{\numberline {3.2}Static Features extraction}{13}{section.3.2}
+\contentsline {section}{\numberline {3.3}Stacking}{14}{section.3.3}
+\contentsline {section}{\numberline {3.4}Proposed model pipeline}{16}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}1st Stage}{16}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}2nd Stage}{17}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}3rd Stage}{17}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}Proposed Malware detection System}{17}{section.3.5}
+\contentsline {subsection}{\numberline {3.5.1}AndroPytool module}{17}{subsection.3.5.1}
+\contentsline {subsection}{\numberline {3.5.2}Preprocessing data}{18}{subsection.3.5.2}
+\contentsline {subsubsection}{Standard scaling}{18}{section*.18}
+\contentsline {subsubsection}{One-hot encoding}{18}{section*.19}
+\contentsline {subsection}{\numberline {3.5.3}Prediction of malware}{19}{subsection.3.5.3}
+\contentsline {chapter}{{Chapter} \hbox to\@tempdima {4\hfil }Experiments and Results}{20}{chapter.4}
+\contentsline {section}{\numberline {4.1}1st Stage training experiments}{20}{section.4.1}
+\contentsline {section}{\numberline {4.2}2nd Stage training experiments}{21}{section.4.2}
+\contentsline {section}{\numberline {4.3}3rd Stage training experiments}{22}{section.4.3}
+\contentsline {section}{\numberline {4.4}Comparing to other techniques}{23}{section.4.4}
+\contentsline {chapter}{{Chapter} \hbox to\@tempdima {5\hfil }Conclusion}{24}{chapter.5}

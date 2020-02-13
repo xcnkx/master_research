@@ -52,6 +52,8 @@
 
 % % % Define Command
 \newcommand{\bm}[1]{\mbox{\boldmath $#1$}}
+\newcommand{\setrow}[1]{\gdef\rowmac{#1}#1\ignorespaces}
+
 
 % % % Re-define names
 
@@ -103,8 +105,8 @@
 
 % % When you request examiners to do a peer review of your thesis, the paper should be double-spacing.
 % % When you submit your thesis, the paper must be single-spacing.
-\singlespacing
-%\doublespacing
+%\singlespacing
+\doublespacing
 
 % % Chapterごとにファイルを分けて，それぞれをincludeする
 % % You should make files of each chapter, and include them.

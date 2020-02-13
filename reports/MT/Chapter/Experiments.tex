@@ -28,7 +28,7 @@ The results are shown in Table \ref{table:1ststage} and Figure \ref{fig:1ststage
         \hline
         
         \textbf{Model} & \textbf{Activities CV} & \textbf{API calls CV} & \textbf{Opcodes CV} & \textbf{Permissions CV} & \textbf{Receivers CV} & \textbf{Services CV} & \textbf{System CV} \\ \hline
-        LightGBM & 0.5094 & 0.8783 & 0.8519 & 0.7979 & 0.8486 & 0.5094 & 0.7866 \\ \hline
+        LightGtextbf & 0.5094 & 0.8783 & 0.8519 & 0.7979 & 0.8486 & 0.5094 & 0.7866 \\ \hline
         Bagging & 0.5108 & \textbf{0.8817} & 0.8544 & 0.8094 & 0.8577 & 0.5099 & 0.7986 \\ \hline
         CatBoost & 0.5103 & 0.8762 & 0.8499 & 0.8048 & 0.8525 & 0.5031 & 0.7912 \\ \hline
         Neural Network & 0.5124 & 0.8518 & 0.8189 & 0.7841 & 0.8429 & 0.5092 & 0.7692 \\ \hline
@@ -127,4 +127,29 @@ The results are shown in Table \ref{table:3rdstage} and Figure \ref{fig:3rdstage
 
 From these results, we can see that the 3rd stage models could not improve the accuracy score from the 2nd stage best model score. And the difference in the score of our 3rd stage models is only 0.1\verb+%+. It may happen because the size of our input for the 3rd stage was very small, only 4 inputs. So we have a conclusion that stacking many steps in small data may cause poor performance in classification models.
 
+
+\section{Comparing to other techniques}
+
+In this section, we compare the results of our experiments to other static analysis techniques to detect Android malware. We can see in Table \ref{table:comparison} related works results with different datasets.
+
+
+\begin{table}[htbp]
+    \centering
+    \caption{Comparison of android malware static analysis techiniques}
+    \label{table:comparison}
+    \begin{adjustbox}{width=\textwidth}
+    \begin{tabular}{|l|m{40mm}|m{40mm}|l|}
+        \hline
+        
+        Paper & Input & Dataset & Accuracy score \\ \hline
+        Samaneh et al. \cite{samaneh}& Intents, Permissions & 114 apps (Malware 57, Benign-ware 57) & 98\% \\ \hline
+        Manzhi et al.\cite{manzhi} & Resource file, Manifest file, executable class dex files. & 1,100 apps (Malware 550, Benign-ware 550) & 98.1\% \\ \hline
+        Zi Wang et al.\cite{ziwang} & Permissions, API function calls & 6334 apps (Malware 4000, Benign-ware 2334) & 93\% \\ \hline
+        Zarni et al.\cite{zarni} & Permissions & 500 apps & Around 91\% \\ \hline
+        Xiong et al.\cite{xiong} & Permissions & 540 apps (Malware 298, Benign-ware 342) & More than 90\% \\ \hline
+        \textbf{Our proposed system} & \textbf{APK}(Activities, API function calls, Opcodes, Permissions, Receivers, Services, System) & \textbf{20,000 apps (Malware 10,000, Benign-ware 10,000)} & \textbf{94\%} \\ \hline
+        
+        \end{tabular}
+    \end{adjustbox}
+    \end{table}
 
